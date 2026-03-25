@@ -1,0 +1,23 @@
+{
+  "swarms": {
+    "swarm-1774394662398-lbijfk": {
+      "swarmId": "swarm-1774394662398-lbijfk",
+      "topology": "hierarchical",
+      "maxAgents": 15,
+      "status": "running",
+      "agents": [],
+      "tasks": [],
+      "config": {
+        "topology": "hierarchical",
+        "maxAgents": 15,
+        "strategy": "specialized",
+        "communicationProtocol": "message-bus",
+        "autoScaling": true,
+        "consensusMechanism": "majority"
+      },
+      "createdAt": "2026-03-24T23:24:22.398Z",
+      "updatedAt": "2026-03-24T23:24:22.398Z"
+    }
+  },
+  "version": "3.0.0"
+}
