@@ -1,1 +1,4 @@
 node_modules/
+.claude/memory.db
+.swarm/
+.claude-flow/swarm/
