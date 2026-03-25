@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-03-25T01:24:50.750Z",
+  "projectRoot": "/Users/tomwbolus/Desktop/Projects/Software Development/mainframe",
+  "structure": {
+    "hasPackageJson": true,
+    "hasTsConfig": false,
+    "hasClaudeConfig": true,
+    "hasClaudeFlow": true
+  },
+  "scannedAt": 1774401890750
+}
